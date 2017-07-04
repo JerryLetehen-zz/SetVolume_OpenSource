@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PonerElVolumen</string>
+    <string name="main_text">Ajustar el momento y volumen</string>
+    <string name="text_time">Tiempo</string>
+    <string name="text_volume">Volumen</string>
+    <string name="set_button">Ajustar</string>
+    <string name="cancel_button">Invalidar</string>
+    <string name="choice_volume">Ajustar el y volumen</string>
+    <string name="negative">Revocación</string>
+    <string name="positive">Bien</string>
+    <string name="confirmation">¿Está seguro</string>
+    <string name="No">No</string>
+    <string name="Yes">Si</string>
+    <string name="Volume_changed">"Le traicionó es vuestro el volumen: "</string>
+    <string name="didnt_set_time">Tiempo no se ha establecido</string>
+    <string name="didnt_set_volume">Volumen no se ha establecido</string>
+    <string name="Canceled">Revocado</string>
+    <string name="nothing_to_cancel">No se establece</string>
+    <string name="available">Disponible en la versión Pro de la aplicación.</string>
+    <string name="buy">Comprar</string>
+    <string name="main_menu">Ajuste</string>
+    <string name="main_text_setup">Seleccione el sonido que desea cambiar</string>
+    <string name="notification">El volumen de notificaciones</string>
+    <string name="ring">El volumen del anillo</string>
+    <string name="system">El volumen de los sonidos del sistema</string>
+    <string name="voice_call">El volumen de la llamada</string>
+</resources>

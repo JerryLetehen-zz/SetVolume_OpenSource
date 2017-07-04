@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SetYourVolume</string>
+    <string name="main_text">SET TIME AND VOLUME</string>
+    <string name="text_time">TIME</string>
+    <string name="text_volume">VOLUME</string>
+    <string name="set_button">SET</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="choice_volume">Set volume</string>
+    <string name="negative">Cancel</string>
+    <string name="positive">Okey</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="Volume_changed">"Your volume was set: "</string>
+    <string name="didnt_set_time">Did not set time</string>
+    <string name="didnt_set_volume">Did not set volume</string>
+    <string name="Canceled">Canceled</string>
+    <string name="nothing_to_cancel">Did not set</string>
+    <string name="available">Available in the pro version of the app.</string>
+    <string name="buy">Buy</string>
+    <string name="main_menu">Settings</string>
+    <string name="main_text_setup">Select the sound you want to change</string>
+    <string name="voice_call">The volume of the call</string>
+    <string name="system">The volume of system sounds</string>
+    <string name="ring">The volume of the ring</string>
+    <string name="notification">The volume of notifications</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetYourVolume</string>
+    <string name="main_text">WÄHLEN SIE ZEIT UND VOLUMEN</string>
+    <string name="text_time">ZEIT</string>
+    <string name="text_volume">VOLUME</string>
+    <string name="set_button">INSTALLIEREN</string>
+    <string name="cancel_button">ZURÜCK</string>
+    <string name="choice_volume">wählen Sie das Volume</string>
+    <string name="negative">Stornierung</string>
+    <string name="positive">etablieren</string>
+    <string name="confirmation">Sind sie sicher?</string>
+    <string name="No">Nein</string>
+    <string name="Yes">ja</string>
+    <string name="Volume_changed">"Ihr Volumen wurde folgendermaßen geändert: "</string>
+    <string name="didnt_set_time">Stellen Sie die Zeit</string>
+    <string name="didnt_set_volume">Stellen Sie die Lautstärke</string>
+    <string name="Canceled">storniert</string>
+    <string name="nothing_to_cancel">Du hast nicht installieren</string>
+    <string name="available">In der Pro-Version der Anwendung</string>
+    <string name="buy">Kaufen</string>
+    <string name="main_menu">Einstellung</string>
+    <string name="main_text_setup">Wählen Sie den Sound, den Sie ändern möchten</string>
+    <string name="notification">Das Volumen der Mitteilungen</string>
+    <string name="ring">Das Volumen des Ringes</string>
+    <string name="system">Die Lautstärke der Systemklänge</string>
+    <string name="voice_call">Die Lautstärke des Anrufs</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetYourVolume</string>
+    <string name="main_text">Pasirinkite Time ir tūris</string>
+    <string name="text_time">LAIKAS</string>
+    <string name="text_volume">tOMAS</string>
+    <string name="set_button">INSTALL</string>
+    <string name="cancel_button">CANCEL</string>
+    <string name="choice_volume">Pasirinkite tūrį</string>
+    <string name="negative">atšaukimas</string>
+    <string name="positive">nustatyti</string>
+    <string name="confirmation">Ar tikrai?</string>
+    <string name="No">ne</string>
+    <string name="Yes">taip</string>
+    <string name="Volume_changed">"Jūsų apimtis buvo pakeistas į: "</string>
+    <string name="didnt_set_time">Nustatykite laiką</string>
+    <string name="didnt_set_volume">nustatyti garsumą</string>
+    <string name="Canceled">atšauktas</string>
+    <string name="nothing_to_cancel">Tu negali įdiegti</string>
+    <string name="available">Disponibile nella versione Pro dell applicazione.</string>
+    <string name="buy">Acquisto</string>
+    <string name="main_menu">Ambiente</string>
+    <string name="main_text_setup">Selezionare il suono che si desidera modificare</string>
+    <string name="notification">Il volume di notifiche</string>
+    <string name="ring">Il volume dell\'anello</string>
+    <string name="system">Il volume dei suoni di sistema</string>
+    <string name="voice_call">Il volume della chiamata</string>
+</resources>

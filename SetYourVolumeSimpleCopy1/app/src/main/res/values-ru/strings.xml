@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">СмениСвоюГромкость</string>
+    <string name="main_text">ВЫБЕРИ ВРЕМЯ И ГРОМКОСТЬ</string>
+    <string name="text_time">ВРЕМЯ</string>
+    <string name="text_volume">ГРОМКОСТЬ</string>
+    <string name="set_button">УСТАНОВИТЬ</string>
+    <string name="cancel_button">ОТМЕНИТЬ</string>
+    <string name="choice_volume">Выбери громкость</string>
+    <string name="negative">Отмена</string>
+    <string name="positive">Установить</string>
+    <string name="confirmation">Вы уверены?</string>
+    <string name="No">Нет</string>
+    <string name="Yes">Да</string>
+    <string name="Volume_changed">"Ваша громкость была изменена на: "</string>
+    <string name="didnt_set_time">Установите время</string>
+    <string name="didnt_set_volume">Установите громкость</string>
+    <string name="Canceled">Отменено</string>
+    <string name="nothing_to_cancel">Вы не установили</string>
+    <string name="available">Доступно в Про версии приложения</string>
+    <string name="buy">Купить</string>
+    <string name="main_menu">Настройка</string>
+    <string name="main_text_setup">Выберите звук, который вы хотите изменить</string>
+    <string name="notification">Громкость уведомлений</string>
+    <string name="ring">Громкость звонка</string>
+    <string name="system">Громкость системных звуков</string>
+    <string name="voice_call">Громкость разговора</string>
+</resources>

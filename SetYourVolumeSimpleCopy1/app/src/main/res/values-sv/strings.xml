@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetEorVolume</string>
+    <string name="nothing_to_cancel">Du har inte installerat</string>
+    <string name="Canceled">annulleras</string>
+    <string name="didnt_set_volume">Ställ in volymen</string>
+    <string name="didnt_set_time">Ställ in tiden</string>
+    <string name="Volume_changed">"Volymen ändrades till: "</string>
+    <string name="Yes">Ja</string>
+    <string name="No">Ingen</string>
+    <string name="confirmation">Är du säker?</string>
+    <string name="positive">Upprätta</string>
+    <string name="negative">Annullering</string>
+    <string name="choice_volume">Välj volymen</string>
+    <string name="cancel_button">ANNULLERA</string>
+    <string name="set_button">INSTALLERA</string>
+    <string name="text_volume">VOLYM</string>
+    <string name="text_time">TID</string>
+    <string name="main_text">VÄLJ tid och volym</string>
+    <string name="available">Finns i Pro-versionen av programmet.</string>
+    <string name="buy">Köp</string>
+    <string name="main_menu">Inställning</string>
+    <string name="main_text_setup">Välj det ljud du vill ändra</string>
+    <string name="notification">Volymen av anmälningar</string>
+    <string name="ring">Volymen av ringen</string>
+    <string name="system">Volymen av systemljud</string>
+    <string name="voice_call">Volymen av samtalet</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetYourVolume</string>
+    <string name="main_text">Zvolte Time a objem</string>
+    <string name="text_time">TIME</string>
+    <string name="text_volume">VOLUME</string>
+    <string name="set_button">INSTALACE</string>
+    <string name="cancel_button">ZRUŠIT</string>
+    <string name="choice_volume">Vyberte svazek</string>
+    <string name="negative">Zrušení</string>
+    <string name="positive">Zřídit</string>
+    <string name="confirmation">Jsi si jistý?</string>
+    <string name="No">Ne</string>
+    <string name="Yes">Ano</string>
+    <string name="Volume_changed">"Hlasitost byl změněn na: "</string>
+    <string name="didnt_set_time">Nastavte čas</string>
+    <string name="didnt_set_volume">Nastavení hlasitosti</string>
+    <string name="Canceled">Zrušený</string>
+    <string name="nothing_to_cancel">Jste neinstalovali</string>
+    <string name="available">K dispozici ve verzi aplikace</string>
+    <string name="buy">Koupit</string>
+    <string name="main_menu">Nastavení</string>
+    <string name="main_text_setup">Vyberte zvuk, který chcete změnit</string>
+    <string name="notification">Objem oznámení</string>
+    <string name="ring">Objem kroužku</string>
+    <string name="system">Objem systémových zvuků</string>
+    <string name="voice_call">Objem hovoru</string>
+</resources>

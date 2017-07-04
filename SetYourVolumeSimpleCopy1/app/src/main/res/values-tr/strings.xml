@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SetYourVolume</string>
+    <string name="main_text">ZAMAN VE HACMİ TERCİH</string>
+    <string name="text_time">ZAMAN</string>
+    <string name="text_volume">SES</string>
+    <string name="set_button">INSTALL</string>
+    <string name="cancel_button">İPTAL</string>
+    <string name="choice_volume">Sesi seçin</string>
+    <string name="negative">iptal</string>
+    <string name="positive">kurmak</string>
+    <string name="confirmation">Emin misiniz?</string>
+    <string name="No">hayır</string>
+    <string name="Yes">evet</string>
+    <string name="Volume_changed">"Toplu olarak değiştirildi: "</string>
+    <string name="didnt_set_time">saati ayarlayın</string>
+    <string name="didnt_set_volume">sesini ayarlama</string>
+    <string name="Canceled">iptal edildi</string>
+    <string name="nothing_to_cancel">Yüklemek vermedi</string>
+    <string name="available">Uygulamanın Pro sürümü mevcut.</string>
+    <string name="buy">Al</string>
+    <string name="main_menu">Ayar</string>
+    <string name="main_text_setup">Değiştirmek istediğiniz sesi seçin</string>
+    <string name="notification">Bildirimlerin hacmi</string>
+    <string name="ring">Yüzük hacmi</string>
+    <string name="system">Sistem seslerinin hacmi</string>
+    <string name="voice_call">Çağrı ses seviyesi</string>
+</resources>
